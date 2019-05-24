@@ -3,7 +3,7 @@ simple BreakOut Game in TypeScript
 
 
 
-https://twofist.github.io/BreakOut-Game/
+https://twofist.github.io/BreakOut-Game-TypeScript/
 
 Controls:  
 A: left  
